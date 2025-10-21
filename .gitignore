@@ -1,0 +1,23 @@
+# Configuration files
+.vscode/
+.DS_Store
+
+# pytest artifacts
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Distribution
+build/
+dist/
+.eggs/
+*.egg-info
+
+# Documentation source build
+doc/_build
+# Virtual environment
+C:\Users\User\Documents\playground_project\python_projectmy_package-env/
